@@ -3855,7 +3855,20 @@
                 "_editor_button_styles.css"
             ],
             "name": "test",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "test",
+                        "test<div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "I:c]mwEa$9",
+                    "note_model_uuid": "0f85078c-48f8-11ea-a583-20c9d0810917",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "0eaeaa38-48fe-11ea-a583-20c9d0810917",
@@ -4325,7 +4338,7 @@
             "req": [
                 [
                     0,
-                    "any",
+                    "all",
                     [
                         0
                     ]
