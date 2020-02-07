@@ -3841,6 +3841,21 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "7b6bd262-4981-11ea-bcc7-7831c1c06c8a",
+            "deck_config_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "_editor_button_styles.css"
+            ],
+            "name": "test",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "0eaeaa38-48fe-11ea-a583-20c9d0810917",
